@@ -1,2 +1,1 @@
-My first readme
-updated git readme
+My first readme updated git readme
